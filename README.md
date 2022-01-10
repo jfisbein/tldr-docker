@@ -1,5 +1,5 @@
 # tldr-docker
-Docker image for running [tldr](https://github.com/tldr-pages/tldr#what-is-tldr-pages) without having to install node.
+Docker image for running [tldr](https://github.com/tldr-pages/tldr#what-is-tldr-pages) without having to install node.js .
 
 The easiest way to run in is to create an alias in `~/.bashrc` or `~/.zshrc` like this
 ```bash
