@@ -80,4 +80,4 @@ jobs:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
           repository: jfisbein/tldr
-          readme-filepath: ./Readme.md
+          readme-filepath: ./README.md
