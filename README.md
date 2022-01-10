@@ -9,5 +9,5 @@ alias tldr='docker run --rm -it -v ~/.tldr/:/root/.tldr/ jfisbein/tldr'
 Then you can run the tldr command as if it was installed locally:
 
 ```bash
-tldr -help
+tldr --help
 ```
